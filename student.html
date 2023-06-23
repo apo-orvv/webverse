@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STUDENT</title>
+    <link rel="stylesheet" type="text/css" href="student.css">
+
+</head>
+<body>
+    <h2>STUDENT DASHBOARD</h2>
+<div class="container" id="container">
+	<div class="form-container sign-up-container">
+		<form action="#">
+			<h1>Account Creation</h1>
+			<input type="text" placeholder="Name" />
+			<input type="text" placeholder="Registration Number" />
+			<input type="text" placeholder="Room Number" />
+			<input type="text" placeholder="Hostel Block" />
+			<input type="text" placeholder="Mess Type" />
+			<input type="password" placeholder="PassKey" />
+			<button>Sign Up</button>
+		</form>
+	</div>
+	<div class="form-container sign-in-container">
+		<form action="#">
+			<h1>Sign In</h1>
+			<span>Use your Existing Account</span>
+			<input type="text" placeholder="Registration Number" />
+			<input type="password" placeholder="PassKey" />
+			<a href="#">Don't remember your PassKey?</a>
+			<a href="studenthomepage.html"><input type = "button" value = "Sign In"></a>
+		</form>
+	</div>
+	<div class="overlay-container">
+		<div class="overlay">
+			<div class="overlay-panel overlay-left">
+				<h1>Long Time!</h1>
+				<p>To stay connected with the atmosphere, please login with your personal info</p>
+				<button class="ghost" id="signIn">Sign In</button>
+			</div>
+			<div class="overlay-panel overlay-right">
+				<h1>Hello, VITian!</h1>
+				<p>Enter your details and browse through the portal for all your necessities!</p>
+				<button class="ghost" id="signUp">Sign Up</button>
+			</div>
+		</div>
+	</div>
+</div>
+<script src="student.js"></script>
+<footer>
+	<p>Copyright 2023 Student Portal</p>
+</footer>
+</body>
+</html>
