@@ -100,20 +100,3 @@ model Faculty {
   password String
   isHOD    Boolean @default(false)
 }
-
-![image](https://github.com/apo-orvv/webverse/assets/76615313/55d0c329-1d85-4098-9e8b-f2001d1dccfe)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/d0cd7870-731c-4ef1-9978-ffd76244b916)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/eb1d338e-d59f-46a8-9098-9e7dca515314)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/a369f653-eb22-4857-b55a-787128b8569d)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/eb136001-6e91-45dd-ad25-2217d25d7ba2)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/e39f2d51-c390-435c-9ca6-a7ff450eaecf)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/6aafe990-50d8-4ae7-908f-ef2ff42f0a87)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/458b971b-e77a-4772-9402-a72549dbef8f)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/c8cddf8a-bf02-4163-8fa6-b3251b8fdfd1)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/36cb9d4c-9bce-4c6c-a22a-793821c608ae)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/4986bd8a-e7cb-43c3-9676-390a884da950)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/26dcfe5f-25cb-4e66-a3c2-34c97ef22244)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/a8f1af6e-4ac0-4f90-a761-4e50eafaf4ee)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/91bac8f0-2231-4ead-ae01-93f08fa64181)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/5ab66440-d633-406d-98a0-d396d2a21ec2)
-![image](https://github.com/apo-orvv/webverse/assets/76615313/d23b8f7c-a53d-4326-82dd-0f127d82dfd0)
